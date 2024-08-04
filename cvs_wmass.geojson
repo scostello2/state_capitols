@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "cvs_wmass",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 1, "ID": "1", "Address": "165 University Drive", "State code": "MA", "Zip code": null, "City": "Amherst", "Drivethru": null, "xcoord": -72.533929374027437, "ycoord": 42.368623081197953 }, "geometry": { "type": "Point", "coordinates": [ -72.533929374027437, 42.368623081197953 ] } },
+{ "type": "Feature", "properties": { "fid": 2, "ID": "2", "Address": "76 North Pleasant Street", "State code": "MA", "Zip code": null, "City": "Amherst", "Drivethru": null, "xcoord": -72.520325524879851, "ycoord": 42.376910786435097 }, "geometry": { "type": "Point", "coordinates": [ -72.520325524879851, 42.376910786435097 ] } },
+{ "type": "Feature", "properties": { "fid": 3, "ID": "3", "Address": "367 Russell Street", "State code": "MA", "Zip code": null, "City": "Hadley", "Drivethru": null, "xcoord": -72.54643045387644, "ycoord": 42.357619828255345 }, "geometry": { "type": "Point", "coordinates": [ -72.54643045387644, 42.357619828255345 ] } },
+{ "type": "Feature", "properties": { "fid": 4, "ID": "4", "Address": "366 King Street", "State code": "MA", "Zip code": null, "City": "Northampton", "Drivethru": null, "xcoord": -72.637574667269419, "ycoord": 42.336472974007116 }, "geometry": { "type": "Point", "coordinates": [ -72.637574667269419, 42.336472974007116 ] } },
+{ "type": "Feature", "properties": { "fid": 5, "ID": "5", "Address": "90 Main Street", "State code": "MA", "Zip code": null, "City": "Northampton", "Drivethru": null, "xcoord": -72.629931085302957, "ycoord": 42.319180520072521 }, "geometry": { "type": "Point", "coordinates": [ -72.629931085302957, 42.319180520072521 ] } }
+]
+}
